@@ -39,7 +39,7 @@ graph TD
 ## Run the Project
 1. Clone the repository
 ```bash
-git clone
+git clone git@github.com:PedroLuisDionisioFraga/neoj4-hello-world.git && cd neoj4-hello-world
 ```
 2. Run the cypher script, in `cypher/family_graph.cypher` in the neo4j browser to create the graph.
 3. Install the requirements
